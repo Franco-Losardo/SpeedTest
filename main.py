@@ -3,7 +3,7 @@ import speedtest
 
 st = speedtest.Speedtest()
 option = input("""Choose below which speed you want to test
-1 Download Speed
+1 Download
 2 Upload
 3 Ping
 Option: """)
